@@ -3,7 +3,7 @@
 
 ## Packages Used
 
-react, react-dom, react-firebase-hooks, firebase, firestore, firebaseauth
+react, react-dom, react-firebase-hooks, firebase, firebase-tools, firestore, firebaseauth
 
 ## Available Scripts
 
